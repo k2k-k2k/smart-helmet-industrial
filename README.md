@@ -1,5 +1,3 @@
-# smart-helmet-industrial
-The **Smart Helmet for Industrial Workers** enhances safety with sensors for gas detection (MQ2, MQ135), temperature &amp; humidity (DHT11), and fall detection (ADXL335, vibration sensor). It monitors conditions in real-time and sends alerts for hazards, integrating with a mobile app for remote monitoring. 🚀
 # Smart Helmet for Industrial Workers  
 
 This smart helmet enhances worker safety by monitoring environmental conditions and detecting hazards in real-time. Equipped with gas sensors (MQ2, MQ135), temperature & humidity sensor (DHT11), and fall detection (ADXL335, vibration sensor), it alerts administrators via a connected mobile app.  
